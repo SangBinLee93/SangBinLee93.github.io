@@ -31,9 +31,10 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
-permalink: /:categories/:title/
-# paginate: 2 # amount of posts to show
-# paginate_path: /page:num/
+# permalink: /:categories/:title/
+permalink: pretty
+paginate: 3 # amount of posts to show
+paginate_path: /page:num/
 timezone: KST # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
