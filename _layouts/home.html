@@ -2,25 +2,18 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: default
+layout: archive
 author_profile: true
 ---
 
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
-  </head>
+{{ content }}
 
-  <body>
-    <div class="container">
+<h3 id="home-page-recent-posts" class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+<body class="layout--archive">
       <h2> CFX Reel 2023.10 </h2>
       {% include video id="zfFjU_6cB8I" provider="youtube" %}
-    </div>
 
-    <div class="container">
       <h2> RIG Reel 2023.10 </h2>
       {% include video id="kCIt_i_nn0w" provider="youtube" %}
-    </div>
-  </body>
-</html>
+</body>
