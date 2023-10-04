@@ -8,7 +8,7 @@ Basic Information
 - from 2021.05 ~
 - 2 year and 5 month + experience
 - Looking for job in Canada or USA
-- I have a workpermit visa for Canada
+- I have a work-permit visa for Canada now.
 - doesn't have any visa for USA now.
 - relocation OK.
 
