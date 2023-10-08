@@ -6,9 +6,8 @@ title: "My Journey"
 
 # 2012.03 ~ 2021.02
 
-![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/CAU_symbol.png){: .align-left style="width: 5%;"}
-
-![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/caufilm.png){: .align-left style="width: 5%;"}
+![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/CAU_symbol.png){: .align-left style="width: 15%;"}
+![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/caufilm.png){: .align-left style="width: 15%;"}  
 
 Chung-Ang University, Film Major (Double - Economics), Barchelor of Arts.
 
@@ -26,9 +25,8 @@ And that was quite a challenging first experience.
 I contracted with distributor, (c)Funnycon. 
 With this film, I could see my movie at JamSil Lotte Cinema, which is one of the most populer Cinema in Korea.
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/shotbus_poster.jpg)
-
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/shotbus.jpg)
+![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/shotbus_poster.jpg) {: .align-left style="width: 25%;"}
+![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/shotbus.jpg) {: .align-left style="width: 25%;"}
 
 During my last year of school, I had a strong desire to create my final movie. I dedicated over 3 years to perfecting it. However, I was unable to accomplish my goal. The main reason behind this was my lack of a meaningful message for society. I felt trapped and unable to progress.
 
@@ -52,7 +50,7 @@ The president of Studio EON wanted to create teasers for three projects, and I w
 
 # 2021.08 ~ 2023.03
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/mir.jpg)
+![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/mir.jpg){: style="width: 25%;"}
 
 I wanted to learn more about Maya rigging, and feature Animation Production. So I worked with Studio MIR. I thought they were focused on 2D, but they were also skilled in 3D. Sometimes, they reproduce 2D lines using 3D assets. So the shape of 3D asset was very important.
 
