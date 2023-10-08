@@ -3,7 +3,6 @@ permalink: /myjourney/
 title: "My Journey"
 ---
 
-
 # 2012.03 ~ 2021.02
 
 ![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/CAU_symbol.png){: .align-left style="width: 15%;"}
@@ -25,21 +24,19 @@ And that was quite a challenging first experience.
 I contracted with distributor, (c)Funnycon. 
 With this film, I could see my movie at JamSil Lotte Cinema, which is one of the most populer Cinema in Korea.
 
-![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/shotbus_poster.jpg) {: .align-left style="width: 25%;"}
-![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/shotbus.jpg) {: .align-left style="width: 25%;"}
+![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/shotbus_poster.jpg){: .align-left style="width: 25%;"}
+![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/shotbus.jpg){: .align-left style="width: 25%;"}
 
 During my last year of school, I had a strong desire to create my final movie. I dedicated over 3 years to perfecting it. However, I was unable to accomplish my goal. The main reason behind this was my lack of a meaningful message for society. I felt trapped and unable to progress.
 
-
-
+<br/><br/>
 # 2021.03 ~ 2021.05
 
 So, I decided to go another way and focus on what I do well. I was really good at using software, including premiere pro, final cut pro, after effects, photoshop, and davinci resolve. Also, my interest has always been with imaginary worlds, such as fantasy, science fiction, and animation. So, during 4 months, I learned the software Maya, and after graduation, during next 3 months, I made my reel, and I could get a job.
 
 <iframe src="https://www.youtube.com/embed/rRsRacJFfis" width="560" height="315" frameborder="0"> </iframe>
 
-
-
+<br/><br/>
 # 2021.05 ~ 2022.07
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/eon.png)
@@ -53,7 +50,7 @@ The president of Studio EON wanted to create teasers for three projects, and I w
 <iframe src="https://www.youtube.com/embed/ldbcaQqWhcM" width="560" height="315" frameborder="0"> </iframe>
 
 
-
+<br/><br/>
 # 2021.08 ~ 2023.03
 
 ![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/mir.jpg){: style="width: 25%;"}
@@ -69,7 +66,7 @@ The head of the rigging team taught me anatomy and Maya sculpting skills. These 
 One day, I received a Canadian work permit, so I wanted to prepare myself in terms of English language skills and my demo reel. This made me feel rushed, but then the head manager of GIANTSTEP suggested that he could help me create an impressive reel within 6 months. He advised me to come to GIANTSTEP and prepare for my Canadian Working Holiday.
 
 
-
+<br/><br/>
 # 2023.04 ~
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/GS.png)
