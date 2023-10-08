@@ -6,9 +6,9 @@ title: "My Journey"
 
 # 2012.03 ~ 2021.02
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/CAU_symbol.png)
+![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/CAU_symbol.png){: .align-left style="width: 5%;"}
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/caufilm.png)
+![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/caufilm.png){: .align-left style="width: 5%;"}
 
 Chung-Ang University, Film Major (Double - Economics), Barchelor of Arts.
 
