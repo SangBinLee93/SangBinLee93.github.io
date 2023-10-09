@@ -1,15 +1,16 @@
 ---
 permalink: /myjourney/
-title: "My Journey"
 ---
 
-# 2023.04 ~
+## "My Stroy"{: .text-center}
+<br/>
+# 2023.04 ~ current [GIANTSTEP](https://www.giantstep.co.kr){:target="_blank" .btn .btn--primary .btn--small}
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/GS.png)
 
-At the first time, when I get into [GIANTSTEP](https://www.giantstep.co.kr){:target="_blank" .btn .btn--primary .btn--small}, I learned Yeti basics from pipeline Technical Director, taiyoung Song. His knowledge about yeti was so great, so I could understand the current status about GIANTSTEP’s pipeline. I suggested to modify GIANTSTEP’s pipeline, more accurate with rest-pose, uv, and guide curve set data.
+At the first time, when I get into , I learned Yeti basics from pipeline Technical Director, taiyoung Song. His knowledge about yeti was so great, so I could understand the current status about GIANTSTEP’s pipeline. I suggested to modify GIANTSTEP’s pipeline, more accurate with rest-pose, uv, and guide curve set data.
 
-After one month, I started work with [LOSTARK CINEMATIC](https://www.youtube.com/watch?v=jOvTuiwLcuI){: .btn .btn--primary .btn--small} Project. I managed all hair datas from all outsourcing companies. I reviewed their errors, retouched the hair curves. However, they also produced main shots but the quality was not enough. I suggested for my manager to give me a opportunity to work on the hair simulation for the shots. So, I could start working with the Kamen's helmet shot, which is the most important shot in the entire timeline.
+After one month, I started work with [LOSTARK CINEMATIC](https://www.youtube.com/watch?v=jOvTuiwLcuI){:target="_blank" .btn .btn--primary .btn--small} Project. I managed all hair datas from all outsourcing companies. I reviewed their errors, retouched the hair curves. One day, they also produced main shots but the quality was not enough. I suggested for my manager to give me a opportunity to work on the hair simulation for the shots. So, I could start working with the Kamen's helmet shot, which is the most important shot in the entire timeline.
 
 When I created the hair simulation for the shot, I utilized Houdini's Vellum and VEX Wrangle nodes. I had studied houdini because I heard houdini is the most powerful tool with simulation, and I wanted to focus on cfx work in this company. It wasn't easy, but I never gave up. 
 
