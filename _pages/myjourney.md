@@ -76,7 +76,7 @@ With this film, I could see my movie at JamSil Lotte Cinema, which is one of the
 During my last year of school, I had a strong desire to create my final movie. I dedicated over 3 years to perfecting it. However, I was unable to accomplish my goal. The main reason behind this was my lack of a 
 meaningful message for society. I felt trapped and unable to progress.
 
-2021.03 ~ 2021.05
+2021.03 ~ 2021.05<br/>
 So, I decided to go another way and focus on what I do well. I was really good at using software, including premiere pro, final cut pro, after effects, photoshop, and davinci resolve. Also, my interest has always been with imaginary worlds, such as fantasy, science fiction, and animation. So, during 4 months, I learned the software Maya, and after graduation, during next 3 months, I made my reel, and I could get a job.
 
 <iframe src="https://www.youtube.com/embed/rRsRacJFfis" width="560" height="315" frameborder="0"> </iframe>
