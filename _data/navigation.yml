@@ -7,5 +7,5 @@ main:
   #   url: /tags/
   - title: "My Story"
     url: /myjourney/
-  - title: "About"
-    url: /about/
+  # - title: "About"
+  #   url: /about/
