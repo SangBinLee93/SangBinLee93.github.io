@@ -68,17 +68,22 @@ author:
       - animation / cinematic
       - looking for Canada / USA job.
       - holding Canadian work-permit
-      - maya / houdini / unreal engine
-      - python / vex / mel
+      - maya      "fas fa-fw fa-star""fas fa-fw fa-star""fas fa-fw fa-star""fas fa-fw fa-star""fas fa-fw fa-star"
+      - houdini   "fas fa-fw fa-star""fas fa-fw fa-star""fas fa-fw fa-star""fas fa-fw fa-star""far fa-fw fa-star"
+      - unreal    "fas fa-fw fa-star""fas fa-fw fa-star""fas fa-fw fa-star""far fa-fw fa-star""far fa-fw fa-star"
+      - python    "fas fa-fw fa-star""fas fa-fw fa-star""fas fa-fw fa-star""fas fa-fw fa-star""fas fa-fw fa-star"
+      - vex       "fas fa-fw fa-star""fas fa-fw fa-star""fas fa-fw fa-star""fas fa-fw fa-star""far fa-fw fa-star"
+      - mel       "fas fa-fw fa-star""fas fa-fw fa-star""fas fa-fw fa-star""far fa-fw fa-star""far fa-fw fa-star"
+      - blueprint "fas fa-fw fa-star""fas fa-fw fa-star""fas fa-fw fa-star""far fa-fw fa-star""far fa-fw fa-star"
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/sang-bin-lee-981a7215a/"
     # - label: "GitHub"
     #   icon: "fab fa-fw fa-github"
     #   url: "https://github.com/SangBinLee93"
     - label: "tkdqls1496@gmail.com"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fas fa-fw fa-envelope"
       url: "mailto:tkdqls1496@gmail.com"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
