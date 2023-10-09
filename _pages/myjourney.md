@@ -21,7 +21,7 @@ As I created the shot’s hair simulation, my vice president, who was the head o
 <br/><br/>
 # 2022.08 ~ 2023.03
 
-[![FLipkart](/assets/images/mir.jpg)](https://www.studiomir.co.kr/en/index.php){:target="_blank" .style="width: 25%;"}
+[![FLipkart](/assets/images/mir.jpg)](https://www.studiomir.co.kr/en/index.php){:target="_blank" style="width: 25%;"}
 
 I wanted to learn more about Maya rigging, and feature Animation Production. So I worked with Studio MIR. I thought they were focused on 2D, but they were also skilled in 3D. Sometimes, they reproduce 2D lines using 3D assets. So the shape of 3D asset was very important.
 
