@@ -2,6 +2,7 @@
 permalink: /myjourney/
 title : "My Stroy"
 ---
+{% include feature_row id="title" type="center" %}
 <br/>
 # 2023.04 ~ current
 
