@@ -5,7 +5,8 @@ title: "My Journey"
 
 # 2023.04 ~
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/GS.png)
+# ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/GS.png)
+[![FLipkart](/assets/images/GS.png)](https://www.giantstep.co.kr){:target="_blank"}
 
 At the first time, when I get into GIANTSTEP, I learned Yeti basics from pipeline Technical Director, taiyoung Song. His knowledge about yeti was so great, so I could understand the current status about GIANTSTEP’s pipeline. I suggested to modify GIANTSTEP’s pipeline, more accurate with rest-pose, uv, and guide curve set data.
 
