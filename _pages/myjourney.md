@@ -1,27 +1,26 @@
 ---
 permalink: /myjourney/
+title : "My Stroy"{: .text-center}
 ---
-
-## "My Stroy"{: .text-center}
 <br/>
-# 2023.04 ~ current [GIANTSTEP](https://www.giantstep.co.kr){:target="_blank" .btn .btn--primary .btn--small}
+# 2023.04 ~ current
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/GS.png)
+[![FLipkart](/assets/images/GS.png)](https://www.giantstep.co.kr){:target="_blank"}
 
-At the first time, when I get into , I learned Yeti basics from pipeline Technical Director, taiyoung Song. His knowledge about yeti was so great, so I could understand the current status about GIANTSTEP’s pipeline. I suggested to modify GIANTSTEP’s pipeline, more accurate with rest-pose, uv, and guide curve set data.
+When I get into GIANTSTEP, I learned Yeti basics from pipeline Technical Director, taiyoung Song. His knowledge about yeti was so great, so I could understand the current status about GIANTSTEP’s pipeline. I suggested to modify GIANTSTEP’s pipeline, more accurate with rest-pose, uv, and guide curve set data.
 
-After one month, I started work with [LOSTARK CINEMATIC](https://www.youtube.com/watch?v=jOvTuiwLcuI){:target="_blank" .btn .btn--primary .btn--small} Project. I managed all hair datas from all outsourcing companies. I reviewed their errors, retouched the hair curves. One day, they also produced main shots but the quality was not enough. I suggested for my manager to give me a opportunity to work on the hair simulation for the shots. So, I could start working with the Kamen's helmet shot, which is the most important shot in the entire timeline.
+After one month, I started work with [LOSTARK CINEMATIC](https://www.youtube.com/watch?v=jOvTuiwLcuI){:target="_blank" .btn .btn--primary .btn--small} Project. I managed all hair data from all outsourcing companies. I reviewed their errors, retouched the hair curves. One day, they also produced main shots but the quality was not enough. I suggested for my manager to give me a opportunity to work on the hair simulation for the shots. So, I could start working with the Kamen's helmet shot, which is the most important shot in the entire timeline.
 
 When I created the hair simulation for the shot, I utilized Houdini's Vellum and VEX Wrangle nodes. I had studied houdini because I heard houdini is the most powerful tool with simulation, and I wanted to focus on cfx work in this company. It wasn't easy, but I never gave up. 
 
-As I created the shot’s hair simulation, my vice president, who was the head of the LostArk project, watched my work and loved it. I was so happy. I added my opinion, "How about adding this tiny short hair before the main hair comes out? I believe this would not only enhance realism but also add a stylistic touch through gradual expression”. And then, he gave me a comment, "Perfect.”
+As I created the shot’s hair simulation, my vice president, who was the head of the LostArk project, watched my work and loved it. I added my opinion, "How about adding this tiny short hair before the main hair comes out? I believe this would not only enhance realism but also add a stylistic touch through gradual expression”. And then, he gave me a comment, "Perfect.”
 
 {% include video id="zfFjU_6cB8I" provider="youtube" %}
 
 <br/><br/>
 # 2022.08 ~ 2023.03
 
-![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/mir.jpg){: style="width: 25%;"}
+[![FLipkart](/assets/images/mir.jpg)](https://www.studiomir.co.kr/en/index.php){:target="_blank" .style="width: 25%;"}
 
 I wanted to learn more about Maya rigging, and feature Animation Production. So I worked with Studio MIR. I thought they were focused on 2D, but they were also skilled in 3D. Sometimes, they reproduce 2D lines using 3D assets. So the shape of 3D asset was very important.
 
@@ -37,7 +36,7 @@ One day, I received a Canadian work permit, so I wanted to prepare myself in ter
 <br/><br/>
 # 2021.05 ~ 2022.07
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/eon.png)
+[![FLipkart](/assets/images/eon.png)](https://www.studioeon.com){:target="_blank"}
 
 Initially, the president of Studio EON asked me to join the directing team since the assistant director had resigned and a replacement team was needed. That was a good experience because I've never earned money with my ability in film before.
 
@@ -45,7 +44,7 @@ And after 3 months, the number of workers in the directing team increased to 3 p
 
 The president of Studio EON wanted to create teasers for three projects, and I wanted to help him achieve this goal. Whenever there were any problems, I would listen and solve them with various ideas. Additionally, I was able to provide guidance on technical issues including Xgen, Faceware, nHair, nCloth, ControlRig, and so on.
 
-<iframe src="https://www.youtube.com/embed/ldbcaQqWhcM" width="560" height="315" frameborder="0"> </iframe>
+{% include video id="ldbcaQqWhcM" provider="youtube" %}
 
 <br/><br/>
 # 2012.03 ~ 2021.02
@@ -80,5 +79,5 @@ meaningful message for society. I felt trapped and unable to progress.
 2021.03 ~ 2021.05<br/>
 So, I decided to go another way and focus on what I do well. I was really good at using software, including premiere pro, final cut pro, after effects, photoshop, and davinci resolve. Also, my interest has always been with imaginary worlds, such as fantasy, science fiction, and animation. So, during 4 months, I learned the software Maya, and after graduation, during next 3 months, I made my reel, and I could get a job.
 
-<iframe src="https://www.youtube.com/embed/rRsRacJFfis" width="560" height="315" frameborder="0"> </iframe>
+{% include video id="rRsRacJFfis" provider="youtube" %}
 
