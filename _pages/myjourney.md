@@ -71,7 +71,7 @@ With this film, I could see my movie at JamSil Lotte Cinema, which is one of the
 ![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/shotbus_poster.jpg){: .align-left style="width: 40%;"}
 ![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/shotbus.jpg){: .align-left style="width: 40%;"}
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/makingfilm_poster.png)
-<br/>
+<br/><br/>
 During my last year of school, I had a strong desire to create my final movie. I dedicated over 3 years to perfecting it. However, I was unable to accomplish my goal. The main reason behind this was my lack of a 
 meaningful message for society. I felt trapped and unable to progress.
 
