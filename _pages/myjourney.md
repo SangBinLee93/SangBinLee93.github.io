@@ -1,6 +1,6 @@
 ---
 permalink: /myjourney/
-title : "My Stroy"{: .text-center}
+title : "My Stroy"
 ---
 <br/>
 # 2023.04 ~ current
