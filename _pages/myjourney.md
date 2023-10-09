@@ -5,9 +5,9 @@ title: "My Journey"
 
 # 2023.04 ~
 
-[![FLipkart](/assets/images/GS.png)](https://www.giantstep.co.kr){:target="_blank"}
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/GS.png)
 
-At the first time, when I get into GIANTSTEP, I learned Yeti basics from pipeline Technical Director, taiyoung Song. His knowledge about yeti was so great, so I could understand the current status about GIANTSTEP’s pipeline. I suggested to modify GIANTSTEP’s pipeline, more accurate with rest-pose, uv, and guide curve set data.
+At the first time, when I get into [GIANTSTEP](https://www.giantstep.co.kr){:target="_blank" .btn .btn--primary .btn--small}, I learned Yeti basics from pipeline Technical Director, taiyoung Song. His knowledge about yeti was so great, so I could understand the current status about GIANTSTEP’s pipeline. I suggested to modify GIANTSTEP’s pipeline, more accurate with rest-pose, uv, and guide curve set data.
 
 After one month, I started work with [LOSTARK CINEMATIC](https://www.youtube.com/watch?v=jOvTuiwLcuI){: .btn .btn--primary .btn--small} Project. I managed all hair datas from all outsourcing companies. I reviewed their errors, retouched the hair curves. However, they also produced main shots but the quality was not enough. I suggested for my manager to give me a opportunity to work on the hair simulation for the shots. So, I could start working with the Kamen's helmet shot, which is the most important shot in the entire timeline.
 
@@ -15,7 +15,7 @@ When I created the hair simulation for the shot, I utilized Houdini's Vellum and
 
 As I created the shot’s hair simulation, my vice president, who was the head of the LostArk project, watched my work and loved it. I was so happy. I added my opinion, "How about adding this tiny short hair before the main hair comes out? I believe this would not only enhance realism but also add a stylistic touch through gradual expression”. And then, he gave me a comment, "Perfect.”
 
-<iframe src="https://www.youtube.com/embed/zfFjU_6cB8I" width="560" height="315" frameborder="0"> </iframe>
+{% include video id="zfFjU_6cB8I" provider="youtube" %}
 
 <br/><br/>
 # 2022.08 ~ 2023.03
