@@ -7,7 +7,7 @@ title: "My Journey"
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/GS.png)
 
-At the first time, when I get into GIANTSTEP, I learned yeti basics from pipeline TD, taiyoung Song. His knowledge about yeti was so great, so I could understand the current status about GIANTSTEP’s pipeline. I suggested to modify GIANTSTEP’s pipeline, more accurate with rest-pose, uv, and guide curve set datas.
+At the first time, when I get into GIANTSTEP, I learned Yeti basics from pipeline Technical Director, taiyoung Song. His knowledge about yeti was so great, so I could understand the current status about GIANTSTEP’s pipeline. I suggested to modify GIANTSTEP’s pipeline, more accurate with rest-pose, uv, and guide curve set data.
 
 After one month, I started work with LostArk Project. I managed all hair datas from all outsourcing companies. I reviewed their errors, retouched the hair curves. However, they also produced main shots but the quality was not enough. I suggested for my manager to give me a opportunity to work on the hair simulation for the shots. So, I could start working with the Kamen's helmet shot, which is the most important shot in the entire timeline.
 
@@ -18,7 +18,7 @@ As I created the shot’s hair simulation, my vice president, who was the head o
 <iframe src="https://www.youtube.com/embed/zfFjU_6cB8I" width="560" height="315" frameborder="0"> </iframe>
 
 <br/><br/>
-# 2021.08 ~ 2023.03
+# 2022.08 ~ 2023.03
 
 ![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/mir.jpg){: style="width: 25%;"}
 
@@ -73,11 +73,10 @@ With this film, I could see my movie at JamSil Lotte Cinema, which is one of the
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <br/>
-During my last year of school, I had a strong desire to create my final movie. I dedicated over 3 years to perfecting it. However, I was unable to accomplish my goal. The main reason behind this was my lack of a meaningful message for society. I felt trapped and unable to progress.
+During my last year of school, I had a strong desire to create my final movie. I dedicated over 3 years to perfecting it. However, I was unable to accomplish my goal. The main reason behind this was my lack of a 
+meaningful message for society. I felt trapped and unable to progress.
 
-<br/><br/>
-# 2021.03 ~ 2021.05
-
+2021.03 ~ 2021.05
 So, I decided to go another way and focus on what I do well. I was really good at using software, including premiere pro, final cut pro, after effects, photoshop, and davinci resolve. Also, my interest has always been with imaginary worlds, such as fantasy, science fiction, and animation. So, during 4 months, I learned the software Maya, and after graduation, during next 3 months, I made my reel, and I could get a job.
 
 <iframe src="https://www.youtube.com/embed/rRsRacJFfis" width="560" height="315" frameborder="0"> </iframe>
