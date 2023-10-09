@@ -7,7 +7,7 @@ title: "My Journey"
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/GS.png)
 
-At the first time, when I get into GIANTSTEP, I learned yeti basics from pipeline TD, tea-young Song. His knowledge about yeti was so great, so I could understand the current status about GIANTSTEP’s pipeline. I suggested to modify GIANTSTEP’s pipeline, more accurate with rest-pose, uv, and guide curve set datas.
+At the first time, when I get into GIANTSTEP, I learned yeti basics from pipeline TD, taiyoung Song. His knowledge about yeti was so great, so I could understand the current status about GIANTSTEP’s pipeline. I suggested to modify GIANTSTEP’s pipeline, more accurate with rest-pose, uv, and guide curve set datas.
 
 After one month, I started work with LostArk Project. I managed all hair datas from all outsourcing companies. I reviewed their errors, retouched the hair curves. However, they also produced main shots but the quality was not enough. I suggested for my manager to give me a opportunity to work on the hair simulation for the shots. So, I could start working with the Kamen's helmet shot, which is the most important shot in the entire timeline.
 
