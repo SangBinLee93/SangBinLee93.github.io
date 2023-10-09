@@ -65,7 +65,7 @@ The head of the rigging team taught me anatomy and Maya sculpting skills. These 
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/spine.png)
 
-One day, I received a Canadian work permit, so I wanted to prepare myself in terms of English language skills and my demo reel. This made me feel rushed, but then the head manager of GIANTSTEP suggested that he could help me create an impressive reel within 6 months. He advised me to come to GIANTSTEP and prepare for my Canadian Working Holiday.
+One day, I received a Canadian work permit, so I wanted to prepare myself in terms of English language skills and my demo reel. This made me feel rushed, and then the head manager of GIANTSTEP suggested that he could help me create an impressive reel within 6 months. He advised me to come to GIANTSTEP and prepare for my Canadian Working Holiday.
 
 
 <br/><br/>
