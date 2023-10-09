@@ -68,8 +68,8 @@ author:
       - animation / cinematic
       - looking for Canada / USA job.
       - holding Canadian work-permit
-      - maya      "fas fa-fw fa-star""fas fa-fw fa-star""fas fa-fw fa-star""fas fa-fw fa-star""fas fa-fw fa-star"
-      - houdini   "fas fa-fw fa-star""fas fa-fw fa-star""fas fa-fw fa-star""fas fa-fw fa-star""far fa-fw fa-star"
+      - maya      <i class="fas fa-fw fa-star""fas fa-fw fa-star""fas fa-fw fa-star""fas fa-fw fa-star""fas fa-fw fa-star" aria-hidden="true"></i>
+      - houdini   <i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="far fa-fw fa-star" aria-hidden="true"></i>
       - unreal    "fas fa-fw fa-star""fas fa-fw fa-star""fas fa-fw fa-star""far fa-fw fa-star""far fa-fw fa-star"
       - python    "fas fa-fw fa-star""fas fa-fw fa-star""fas fa-fw fa-star""fas fa-fw fa-star""fas fa-fw fa-star"
       - vex       "fas fa-fw fa-star""fas fa-fw fa-star""fas fa-fw fa-star""fas fa-fw fa-star""far fa-fw fa-star"
