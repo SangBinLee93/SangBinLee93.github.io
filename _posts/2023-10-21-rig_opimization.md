@@ -7,30 +7,28 @@ tages:
   - maya
 ---
 
-[original document]  
-https://disneyanimation.com/publications/?drawer=/publications/optimizing-rig-manipulation-with-gpu-and-parallel-evaluation/<br/>
+[original document : Disney's SIGGRAPH 2019 Talk](https://disneyanimation.com/publications/?drawer=/publications/optimizing-rig-manipulation-with-gpu-and-parallel-evaluation/)
+<br/>
 ![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/rig_optimize/rig_opimize.png)
 
 ##Key Concept
 - Optimize rig for Parallel evaluation, multi-thread.
 - Use multi/smaller nodes rather than fewer/heavy nodes<br/>
-![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/rig_optimize/singlethread vs multithread.png.png)
+![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/rig_optimize/singlethread_vs_multithread.png.png)
 <br/>
 
 ##### Rig Opimizations
 
 - Create Unique Deformer Chains
-> ( OK )
-ShapeOrig → Deformer → Shape
-
 > ( NO!! )
-ShapeOrig → Deformer → Multiple Shapes
-
+Shape → Deformer → Multiple Shapes
 
 - Optimize Mesh Size
 > split meshes per 1000 to 2000 points
->> and comebine the cut-up meshes to a single mesh with a custom parallel blending node.<br/>
+>> and comebine the cut-up meshes to a single mesh with a custom parallel blending node.
+<br/>
 ![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/rig_optimize/split.png){: style="width: 40%;"}
+> Sometimes howerver, too many meshes are much slower than combined mesh. Cutting up appropriately is very important.
 
 - Break Large Evaluation Graph Cycles
 > IK system is naturally form a cycle. If possible, use other methods.
