@@ -3,7 +3,7 @@ title : "[Study][Tip] Optimizing a rig file"
 header:
   teaser: /assets/images/rig_optimize/realtimerigmanip.jpg
   overlay_image: /assets/images/rig_optimize/realtimerigmanip.jpg
-  overlay_filter: 0.5
+  // overlay_filter: 0.5
 tages:
   - maya
   - study
@@ -13,10 +13,10 @@ tages:
 <br/>
 ![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/rig_optimize/rig_opimize.png)
 
-##Key Concept
+## Key Concept
 - Optimize rig for Parallel evaluation, multi-thread.
 - Use multi/smaller nodes rather than fewer/heavy nodes<br/>
-![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/rig_optimize/singlethread_vs_multithread.png.png)
+![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/rig_optimize/singlethread_vs_multithread.png)
 <br/>
 
 ##### Rig Opimizations
