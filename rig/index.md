@@ -1,7 +1,7 @@
 ---
-title: "rig"
+title: "RIG"
 layout: category
-taxonomy: "rig"
+taxonomy: "RIG"
 entries_layout: grid
 author_profile: true
 classes: wide
