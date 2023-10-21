@@ -11,7 +11,7 @@ tages:
 
 check lots of hair with python scripting.  
 
-![Alt Text]({{ site.url }}{{ site.baseurl }}/assets/images/errorcheck/ErrorCheck.gif)  
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/errorcheck/ErrorCheck.gif)  
 
 ### Error events  
 - green : root point is too far from subdivision  
