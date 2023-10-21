@@ -24,8 +24,8 @@ tages:
 Shape → Deformer → Multiple Shapes  
 
 - Optimize Mesh Size
-> split meshes per 1000 to 2000 points
->> and comebine the cut-up meshes to a single mesh with a custom parallel blending node.  
+> split meshes per 1000 to 2000 points  
+> and comebine the cut-up meshes to a single mesh with a custom parallel blending node.  
 ![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/rig_optimize/split.png){: style="width: 40%;"}  
 > Sometimes howerver, too many meshes are much slower than combined mesh. Cutting up appropriately is very important.
 
