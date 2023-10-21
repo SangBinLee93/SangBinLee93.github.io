@@ -3,7 +3,6 @@ title : "[Study][Tip] Optimizing a rig file"
 header:
   teaser: /assets/images/rig_optimize/realtimerigmanip.jpg
   overlay_image: /assets/images/rig_optimize/realtimerigmanip.jpg
-  // overlay_filter: 0.5
 tages:
   - maya
   - study
