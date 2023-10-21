@@ -1,8 +1,8 @@
 main:
   # - title: "Posts"
   #   url: /posts/
-  - title: "Post(rig)"
-    url: /categories/#rig
+  - title: "RIG"
+    url: /RIG/
   # - title: "Tags"
   #   url: /tags/
   - title: "My Story"
