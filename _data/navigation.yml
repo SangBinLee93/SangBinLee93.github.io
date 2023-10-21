@@ -3,6 +3,8 @@ main:
   #   url: /posts/
   - title: "RIG"
     url: /RIG/
+  - title: "CFX"
+    url: /CFX/
   # - title: "Tags"
   #   url: /tags/
   - title: "My Story"
