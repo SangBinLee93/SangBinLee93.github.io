@@ -1,5 +1,5 @@
 ---
-title : "[Hair][Python] checking script for error curves"
+title : "[Hair][Yeti][Python] checking script for error curves"
 header:
   teaser: assets/images/errorcheck/shot_231022_000438.png
   overlay_image: assets/images/errorcheck/shot_231022_000438.png
@@ -7,6 +7,7 @@ header:
 tages:
   - maya
   - hair
+  - yeti
 ---
 
 check lots of hair with python scripting.  
