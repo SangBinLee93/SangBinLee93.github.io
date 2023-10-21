@@ -28,3 +28,7 @@ check lots of hair with python scripting.
 > This makes the curve cannot follow uvPin or follicle.
 because there are no uv coordinate for the curve.
 
+(This script include pinning curves to mesh with uvPin node)
+
+#### [white]
+
