@@ -9,26 +9,35 @@ tages:
   - hair
 ---
 
-check lots of hair with python scripting.
+check lots of hair with python scripting.  
 
-![Alt Text](assets/images/errorcheck/ErrorCheck.gif)
+![Alt Text]({{ site.url }}{{ site.baseurl }}assets/images/errorcheck/ErrorCheck.gif)  
 
-### Error events
-- green : root point is too far from subdivision
-- red : root point is on the uv boarderline.
-- white : root vector is opposite from mesh normal vector.
-(This script is available for multi yeti nodes, multi meshes)
+### Error events  
+- green : root point is too far from subdivision  
+- red : root point is on the uv boarderline.  
+- white : root vector is opposite from mesh normal vector.  
+(This script is available for multi yeti nodes, multi meshes)  
 
-#### [green] root point is too far from mesh's subdivision
-> This is just for convinience for grooming and scripting. 
-![Alt Text](assets/images/errorcheck/rootSnap.gif)
-(This script include snapping function)
+#### [green] root point is too far from mesh's subdivision  
+> This is just for convinience for grooming and scripting.  
+![Alt Text]({{ site.url }}{{ site.baseurl }}assets/images/errorcheck/rootSnap.gif)  
+(This script include snapping function)  
 
 #### [red] root point is on the uv boarderline.
 > This makes the curve cannot follow uvPin or follicle.
-because there are no uv coordinate for the curve.
-
+because there are no uv coordinate for the curve.  
+![Alt Text]({{ site.url }}{{ site.baseurl }}assets/images/errorcheck/uvBoarderline.gif)  
 (This script include pinning curves to mesh with uvPin node)
 
-#### [white]
+#### [white] root vector is opposite from mesh normal vector.
+> This makes the curve unaffected.
+> So, That curves cannot drive the groom. (holding error)
+![Alt Text]({{ site.url }}{{ site.baseurl }}assets/images/errorcheck/inverted.png)
 
+
+#### [Another] shrinking problem
+> Many workers made root point shivering because of collide evaluation.  
+> This makes shrinking or clumping error issues.  
+![Alt Text]({{ site.url }}{{ site.baseurl }}assets/images/errorcheck/shaking.gif)  
+So, hold the root's cv[0] points.
