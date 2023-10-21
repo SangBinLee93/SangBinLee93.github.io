@@ -7,4 +7,4 @@ author_profile: true
 classes: wide
 ---
 
-Post about Rigging
+
