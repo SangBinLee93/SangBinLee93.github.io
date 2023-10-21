@@ -1,7 +1,7 @@
 ---
-title: "RIG"
+title: "CFX"
 layout: category
-taxonomy: "RIG"
+taxonomy: "CFX"
 entries_layout: grid
 author_profile: true
 classes: wide
