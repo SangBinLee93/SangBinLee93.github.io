@@ -21,13 +21,12 @@ tages:
 
 - Create Unique Deformer Chains
 > ( NO!! )
-Shape → Deformer → Multiple Shapes
+Shape → Deformer → Multiple Shapes  
 
 - Optimize Mesh Size
 > split meshes per 1000 to 2000 points
->> and comebine the cut-up meshes to a single mesh with a custom parallel blending node.
-<br/>
-![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/rig_optimize/split.png){: style="width: 40%;"}
+>> and comebine the cut-up meshes to a single mesh with a custom parallel blending node.  
+![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/rig_optimize/split.png){: style="width: 40%;"}  
 > Sometimes howerver, too many meshes are much slower than combined mesh. Cutting up appropriately is very important.
 
 - Break Large Evaluation Graph Cycles
@@ -37,8 +36,8 @@ Shape → Deformer → Multiple Shapes
 > Make intermediate meshes smaller.
 
 - Remove Head Geometry
-> Cutting off Head and blendding back onto body is optimization for single-threaded performance
->> Transfer all head deformers to the body, making it possible to remove head from the rigs entirely.
+> Cutting off Head and blendding back onto body is optimization for single-threaded performance  
+> Transfer all head deformers to the body, making it possible to remove head from the rigs entirely.
 
 ##### Tool Updates for Parallel Evaluation
 
