@@ -1,7 +1,7 @@
 ---
-title : "[Hair] clumpingTest"
+title : "[Hair] clumped hair simulation"
 header:
-  teaser: assets/images/hairClumping/hairClumpingThumbnail.png
+  teaser: assets/images/hairClumping/hairClumping_thumbnail.png
   overlay_image: assets/images/hairClumping/hairClumping.png
   overlay_filter: 0.5
 tages:
@@ -9,7 +9,7 @@ tages:
   - hair
 ---
 
-Stylized animation character's ClumpingTest  
+Stylized animation character's clumping test  
 
 {% include video id="dT2EpjffYmk" provider="youtube" %}
 
