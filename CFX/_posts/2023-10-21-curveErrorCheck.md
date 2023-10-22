@@ -37,8 +37,3 @@ because there are no uv coordinate for the curve.
 ![Alt Text]({{ site.url }}{{ site.baseurl }}/assets/images/errorcheck/inverted.png)
 
 
-#### [Another] shrinking problem
-> Many workers made root point shivering because of collide evaluation.  
-> This makes shrinking or clumping error issues.  
-![Alt Text]({{ site.url }}{{ site.baseurl }}/assets/images/errorcheck/shaking.gif)  
-So, hold the root's cv[0] points.
