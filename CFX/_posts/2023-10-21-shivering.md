@@ -15,19 +15,18 @@ yeti shivering problem solving experience.
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/shivering/shivering_root.gif)  
 Outsourcing company gave me this shivering data.  
 
-I assumed that curves' data is not fitting for yeti.  
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/errorcheck/inverted2.png)  
-It was certain that the root points are the problem.  
+> I assumed that curves' data is not fitting for yeti.  
+> ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/errorcheck/inverted2.png)  
+> It was certain that the root points are the problem.  
+> ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/shivering/shivering_root_cu.gif)  
+> ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/shivering/shivering_root_normal.png)  
+> I could understand they give me this data because of collision evaluation.  
+> Talking to my production manager with this problem, I could solve the problems.  
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/shivering/shivering_root_cu.gif)  
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/shivering/shivering_root_normal.png)  
-I could understand they give me this data because of collision evaluation.  
-Talking to my production manager with this problem, I could solve the problems.  
-
-Another cuase was decimal error.  
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/shivering/shivering_transform.gif)  
-I heard the outsourcing company doesn't have scripting ability.  
-So i just scripted simple python code, to make my company's schedule flow smoothly.  
+> Another cuase was decimal error.  
+> ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/shivering/shivering_transform.gif)  
+> I heard the outsourcing company doesn't have scripting ability.  
+> So i just scripted simple python code, to make my company's schedule flow smoothly.  
 
 ~~~python
 import pymel.core as pm
