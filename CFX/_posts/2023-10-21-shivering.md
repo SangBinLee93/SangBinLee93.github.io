@@ -26,8 +26,8 @@ Talking to my production manager with this problem, I could solve the problems.
 
 Another cuase was decimal error.  
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/shivering/shivering_transform.gif)  
-I heard the outsourcing company doesn't have scripting ability.
-So i just scripted simple python code, to make my company's schedule flow smoothly.
+I heard the outsourcing company doesn't have scripting ability.  
+So i just scripted simple python code, to make my company's schedule flow smoothly.  
 
 ~~~python
 import pymel.core as pm
