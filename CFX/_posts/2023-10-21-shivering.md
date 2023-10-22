@@ -31,7 +31,6 @@ So i just scripted simple python code, to make my company's schedule flow smooth
 
 ~~~python
 import pymel.core as pm
-import maya.mel as mel
 
 #####################################################
 # 1 ##### delete CV_GRP in the asstname_GRP ##########
