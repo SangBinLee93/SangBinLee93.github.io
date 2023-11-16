@@ -1,5 +1,5 @@
 ---
-title : "[Hair] clumped hair simulation"
+title : "[Houdini][Hair] clumped hair simulation"
 header:
   teaser: assets/images/hairClumping/hairClumping_thumbnail.png
   overlay_image: assets/images/hairClumping/hairClumping.png
