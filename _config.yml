@@ -16,7 +16,7 @@
 title: SangBin Lee - PortFolio Website
 email: tkdqls1496@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  CFX / RIG artist, who are looking for Canada / USA job.
+  CFX / RIG artist
 # twitter_username: None
 github_username: SangBinLee93
 minimal_mistakes_skin: mint
@@ -64,24 +64,15 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : |
       - CFX / RIG artist
-      - 2.5 years experience
       - Animation / Cinematic
-      - Looking for Canada / USA job.
-      - Holding Canadian work-permit
-      - <i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i>  Maya
-      - <i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i>  Houdini
-      - <i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i>  Vellum
-      - <i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i>  nHair/nCloth
-      - <i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i>  Qualoth
-      - <i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i>  Rig
-      - <i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i>  3D Math
-      - <i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="far fa-fw fa-star" aria-hidden="true"></i>  Ragdoll
-      - <i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i>  Python
-      - <i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i>  Pymel
-      - <i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="far fa-fw fa-star" aria-hidden="true"></i>  Vex
-      - <i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i>  Yeti, Xgen
-      - <i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="far fa-fw fa-star" aria-hidden="true"></i>  Marvelous
-      - <i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="fas fa-fw fa-star" aria-hidden="true"></i><i class="far fa-fw fa-star" aria-hidden="true"></i>  Unreal
+      - Maya, Houdini, Unreal Engine
+      - Vellum ( Hair, Cloth )
+      - nHair, nCloth, Qualoth
+      - Rig, 3D Math
+      - Ragdoll Dynamics 
+      - Python, Pymel, Mel, Vex
+      - Yeti, Xgen
+      - Marvelous Designer
         
   links:
     - label: "LinkedIn"
