@@ -70,7 +70,7 @@ author:
       - nHair, nCloth, Qualoth
       - Rig, 3D Math
       - Ragdoll Dynamics 
-      - Python, PyMEL, MEL, VEX
+      - Python, PyMEL, PySide, MEL, VEX
       - Yeti, Xgen
       - Marvelous Designer
         
