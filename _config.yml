@@ -81,7 +81,7 @@ author:
     #   icon: "fab fa-fw fa-github"
     #   url: "https://github.com/SangBinLee93"
     - label: "twitter"
-      icon: ="fa-brands fa-x-twitter"
+      icon: ="fab fa-fw fa-x-twitter"
       url: "https://twitter.com/SANGBINLEE1993"
     - label: "tkdqls1496@gmail.com"
       icon: "fas fa-fw fa-envelope"
