@@ -1,8 +1,13 @@
 source "https://rubygems.org"
 
-gem "github-pages", group: :jekyll_plugins
+gem 'jekyll', '~> 3.9.5'
+gem 'github-pages', group: :jekyll_plugins
+gem 'minimal-mistakes-jekyll', github: 'mmistakes/minimal-mistakes'
+gem 'cvs'
+gem 'webrick'
 
-gem "tzinfo-data"
+gem 'tzinfo'
+gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw]
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # If you have any plugins, put them here!

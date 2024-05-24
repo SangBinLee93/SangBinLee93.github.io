@@ -32,7 +32,7 @@ permalink: /:categories/:title/
 permalink: pretty
 paginate: 4 # amount of posts to show
 paginate_path: /page:num/
-timezone: KST # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Seoul # chatGPT
 
 include:
    - _pages
@@ -102,6 +102,22 @@ author:
 #       icon: "fab fa-fw fa-instagram"
 #       url: "https://instagram.com/"
 
+# Collections
+collections:
+  Personal:
+    output: true
+    permalink: /:collection/:path/
+  Animation:
+    output: true
+    permalink: /:collection/:path/
+  VFX:
+    output: true
+    permalink: /:collection/:path/
+  Script:
+    output: true
+    permalink: /:collection/:path/
+
+# Defaults
 defaults:
   # _posts
   - scope:
@@ -121,6 +137,51 @@ defaults:
     values:
       layout: single
       author_profile: true
+      share: false
+  # _Personal
+  - scope:
+      path: ""
+      type: Personal
+    values:
+      layout: archive
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
+  # _Animation
+  - scope:
+      path: ""
+      type: Animation
+    values:
+      layout: archive
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
+  # _VFX
+  - scope:
+      path: ""
+      type: VFX
+    values:
+      layout: archive
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
+  # _Script
+  - scope:
+      path: ""
+      type: Script
+    values:
+      layout: archive
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
 
 category_archive:
   type: liquid

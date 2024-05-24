@@ -5,3 +5,11 @@
 layout: home
 author_profile: true
 ---
+
+<ul>
+  {% for item in site.personal %}
+    <li>
+      <a href="{{ item.url }}">{{ item.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
