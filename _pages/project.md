@@ -32,8 +32,8 @@ author_profile: false
     {% endunless %}
   {% endfor %}
   {% if label != "Animation" %}
-  <br><br><br><br><br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br><br><br>
   {% else %}
-  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
   {% endif %}
 {% endfor %}
