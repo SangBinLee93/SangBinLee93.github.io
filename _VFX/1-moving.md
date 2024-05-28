@@ -1,7 +1,7 @@
 ---
 title : "Moving"
 header:
-  teaser: /assets/images/portfolio/moving.png
+  teaser: /assets/images/portfolio/Moving.png
 tages:
   - maya
   - rig
