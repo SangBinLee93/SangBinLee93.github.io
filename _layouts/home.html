@@ -6,11 +6,13 @@ layout: archive
 author_profile: true
 ---
 
+{{ content }}
+
 <body class="layout--archive">
-      <h2> CFX / RIG Demo Reel 2023.12 </h2>
-      {% include video id="PhSZRrjLRxc" provider="youtube" %}
-<h3> <a href="https://sangbinlee93.github.io/PROJECT/"> Demo Reel Breakdown </a></h3>
-<h3> <a href="https://sangbinlee93.github.io/myjourney/"> My Journey </a> </h3><br />
+      <h2> CFX / RIG Demo Reel 2024.05 </h2>
+      {% include vimeoPlayer.html id=949876855 %}
+<h3> <a href="/PROJECT/"> Demo Reel Breakdown </a></h3>  
+<h3> <a href="/myjourney/"> My Journey </a> </h3><br />
 <h3 id="home-page-recent-posts" class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 {% if paginator %}

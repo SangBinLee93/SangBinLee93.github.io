@@ -1,7 +1,7 @@
 ---
-title : "[Personal] Vanellope Facial Rig"
+title : "Vanellope Facial Rig"
 header:
-  teaser: /assets/images/portfolio/facerig3.png
+  teaser: /assets/images/portfolio/VNL.png
   video:
     id: jW-nAg0ITXI
     provider: youtube
@@ -13,6 +13,8 @@ tages:
   - modeling
   - animation
 ---
+
+[Personal][Facial Rig][Fan Art][RIG][MOD][ANIM]
 
 Maya 2024 Multi-Skin Clusters / Rig / Mod / Anim
 
