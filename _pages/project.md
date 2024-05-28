@@ -7,7 +7,7 @@ classes: wide
 author_profile: false
 ---
 
-{% assign custom_order = "Personal,Animation,VFX,Script" | split: ',' %}
+{% assign custom_order = "Personal,Animation,VFX,Script,ETC" | split: ',' %}
 {% assign ordered_collections = "" | split: '' %}
 
 {% for collection_name in custom_order %}
@@ -31,5 +31,9 @@ author_profile: false
     {% include archive-single.html type="grid"%}
     {% endunless %}
   {% endfor %}
-  <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  {% if label != "Animation" %}
+  <br><br><br><br><br><br><br><br><br><br><br><br><br>
+  {% else %}
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  {% endif %}
 {% endfor %}
