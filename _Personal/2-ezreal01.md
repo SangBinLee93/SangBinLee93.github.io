@@ -1,5 +1,5 @@
 ---
-title : "[Houdini][Cloth] Houdini Cloth Simulation"
+title : "[2023] Ezreal 01"
 header:
   teaser: assets/images/houdiniCloth/hou_thumbnail.png
   video:
@@ -9,6 +9,8 @@ tages:
   - houdini
   - cloth
 ---
+
+[Personal][CFX][RIG]
 
 Houdini Cloth Simulation
 
