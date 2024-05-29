@@ -3,7 +3,9 @@ permalink: /myjourney/
 title : "My Stroy"
 ---
 <br/>
-# 2023.04 ~ current
+- This page is still being edited(2024-05-29)
+
+# 2023.04 ~ 2024.05
 
 [![FLipkart](/assets/images/GS.png)](https://www.giantstep.co.kr){:target="_blank"}
 
