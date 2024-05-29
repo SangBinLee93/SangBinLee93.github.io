@@ -1,5 +1,5 @@
 ---
-title : "LOSTARK"
+title : "[2023] LOSTARK"
 header:
   teaser: /assets/images/portfolio/LOSTARK_STILL.png
   video:

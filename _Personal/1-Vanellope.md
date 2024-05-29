@@ -1,5 +1,5 @@
 ---
-title : "Vanellope Facial Rig"
+title : "[2024] Vanellope Facial Rig"
 header:
   teaser: /assets/images/portfolio/VNL.png
   video:

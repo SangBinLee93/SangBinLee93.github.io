@@ -1,10 +1,10 @@
 ---
-title : "HYUNDAI CES 2024"
+title : "[2024] HYUNDAI CES 2024"
 header:
   teaser: /assets/images/portfolio/ces.png
-  # video:
-  #   id: tz84ZPRCRo8
-  #   provider: youtube
+  video:
+    id: NQrftRCaoKk
+    provider: youtube
 tages:
   - houdini
   - maya

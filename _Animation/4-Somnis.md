@@ -1,10 +1,10 @@
 ---
-title : "Somnis Rumble Rush"
+title : "[2023] Somnis Rumble Rush"
 header:
   teaser: /assets/images/portfolio/SOMNIS.png
-  # video:
-  #   id: tz84ZPRCRo8
-  #   provider: youtube
+  video:
+    id: zpS2ovMcpj4
+    provider: youtube
 tages:
   - houdini
   - vellum

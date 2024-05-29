@@ -8,7 +8,7 @@ author_profile: false
 ---
 - This page is still being edited(2024-05-29)
 
-{% assign custom_order = "Personal,Animation,VFX,Script,ETC" | split: ',' %}
+{% assign custom_order = "Personal,Animation,VFX,Script,Commercial,ETC" | split: ',' %}
 {% assign ordered_collections = "" | split: '' %}
 
 {% for collection_name in custom_order %}
@@ -32,9 +32,9 @@ author_profile: false
     {% include archive-single.html type="grid"%}
     {% endunless %}
   {% endfor %}
-  {% if label != "Animation" %}
-  <br><br><br><br><br><br><br><br><br><br>
-  {% else %}
+  {% if label == "Animation" %}
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  {% else %}
+  <br><br><br><br><br><br><br><br><br><br>
   {% endif %}
 {% endfor %}

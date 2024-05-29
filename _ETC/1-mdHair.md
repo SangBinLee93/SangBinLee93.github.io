@@ -1,10 +1,10 @@
 ---
-title : "Virtual Influencer Project"
+title : "[2021] Virtual Influencer Project"
 header:
   teaser: /assets/images/portfolio/MDU150.png
-  # video:
-  #   id: tz84ZPRCRo8
-  #   provider: youtube
+  video:
+    id: RYlD_U_QaVk
+    provider: youtube
 tages:
   - houdini
   - maya

@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: SangBin Lee - PortFolio Website
+title: Sangbin Lee - PortFolio Website
 email: tkdqls1496@gmail.com
 description: CFX / RIG artist (Houdini / Maya)
 twitter_username: SANGBINLEE1993
@@ -116,6 +116,9 @@ collections:
   Script:
     output: true
     permalink: /:collection/:path/
+  Commercial:
+    output: true
+    permalink: /:collection/:path/
   ETC:
     output: true
     permalink: /:collection/:path/
@@ -178,6 +181,17 @@ defaults:
   - scope:
       path: ""
       type: Script
+    values:
+      layout: archive
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
+  # _Commercial
+  - scope:
+      path: ""
+      type: Commercial
     values:
       layout: archive
       author_profile: true

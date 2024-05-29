@@ -1,10 +1,10 @@
 ---
-title : "ASTRA: Knights of Veda"
+title : "[2024] ASTRA: Knights of Veda"
 header:
   teaser: /assets/images/portfolio/ASTRA.png
-  # video:
-  #   id: tz84ZPRCRo8
-  #   provider: youtube
+  video:
+    id: oWwKPhWmRfY
+    provider: youtube
 tages:
   - houdini
   - maya

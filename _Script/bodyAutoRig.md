@@ -1,5 +1,5 @@
 ---
-title : "Matrix Auto Rig"
+title : "[2023,2024] Matrix Auto Rig"
 header:
   teaser: /assets/images/autorig/0_autorig_thumbnail.png
   overlay_image: /assets/images/autorig/0_autorig_thumbnail.png
