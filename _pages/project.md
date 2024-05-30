@@ -34,8 +34,6 @@ author_profile: false
   {% endfor %}
   {% if label == "Animation" %}
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-  {% elsif label == "Commercial" %}
-  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
   {% else %}
   <br><br><br><br><br><br><br><br><br><br>
   {% endif %}
