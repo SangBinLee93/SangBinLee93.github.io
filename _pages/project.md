@@ -22,11 +22,14 @@ author_profile: false
 {% for collection in ordered_collections %}
   {% unless collection.output == false or collection.label == "posts" %}
   {% capture label %}{{ collection.label }}{% endcapture %}
-  {% if label != written_label %}
+  {% if label == "Personal" %}
+  <h2 id="{{ label | slugify }}" class="archive__subtitle" align="center">Personal Project</h2>
+  {% elsif label != written_label %}
   <h2 id="{{ label | slugify }}" class="archive__subtitle" align="center">{{ label }}</h2>
   {% capture written_label %}{{ label }}{% endcapture %}
   {% endif %}
   {% endunless %}
+  <section>
   {% for post in collection.docs %}
     {% unless collection.output == false or collection.label == "posts" %}
     {% include archive-single.html type="grid"%}
@@ -38,3 +41,4 @@ author_profile: false
   <br><br><br><br><br><br><br><br><br><br>
   {% endif %}
 {% endfor %}
+</section>
