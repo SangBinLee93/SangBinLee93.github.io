@@ -13,6 +13,7 @@ tages:
   - hair
 ---
 
-[Commercial][CFX][Wing]
+[Commercial][RIG][Bifrost][MEL]
 
-- Built simulation setup and simulated wing.
+- Bifrost rig for detecting landscape.
+- Mel expression for auto wheel rotation
