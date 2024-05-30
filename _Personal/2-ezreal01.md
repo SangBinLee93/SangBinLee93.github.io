@@ -1,7 +1,7 @@
 ---
 title : "[2023] Ezreal 01"
 header:
-  teaser: assets/images/houdiniCloth/hou_thumbnail.png
+  teaser: /assets/images/portfolio/hou_thumbnail.png
   video:
     id: 0rKNC_4-Nok
     provider: youtube

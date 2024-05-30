@@ -12,3 +12,5 @@ tages:
 [Netflix][2D&3D Hybrid][RIG]
 
 **Rigged** horse (3D guide Asset)
+
+Only teaser is opened, so there is nothing to show you.

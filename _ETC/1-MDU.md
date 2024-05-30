@@ -1,9 +1,10 @@
 ---
-title : "[2021] Mandoo DDong"
+title : "[2021, 2022] Mandoo DDong"
 header:
   teaser: /assets/images/portfolio/MD1.png
-  overlay_image: /assets/images/portfolio/MD1.png
-  overlay_filter: 0.5
+  video:
+    id: S8khYI4va9Q
+    provider: youtube
 tages:
   - maya
   - unrealEngine
