@@ -10,7 +10,7 @@ tages:
   - Vellum
 ---
 
-[OTT][3D][Season 2][CFX]
+[OTT][Season 2][CFX]
 
 Unannounced Season 2
 Rigged, Built Simulation Setup and Simulated watery creature hand.
