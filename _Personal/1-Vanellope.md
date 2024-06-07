@@ -30,6 +30,18 @@ process
 - modeling detail face shape in maya
 - texturing face in substance painter
 
+<h3> Basic rig </h3>
+
+<img src="/assets/images/vanellope/basic_BD.png" style="width:720px">
+
+process
+- blendshape[shape fix] (purple)
+- multi SkinClusters[lip, eye, ear&nose&cheek1, cheeck2, eyebrow] base on world (yellow)
+- main SkinCluster[neck, head] (red)
+- add SkinCluster[up, mid, low] following main (blue)  <img src="/assets/images/vanellope/bindPreMatrix.png" style="width:720px">
+- add nonLinear,lattice, deformers (green)
+- add deltaMushes
+
 <h3> Sculpting Mouth (+ eye ) </h3>
 
 <img src="/assets/images/vanellope/bs_BD.gif" style="width:720px">
@@ -50,7 +62,7 @@ process
 - (mouth only) devide left/right curve as high curve
 - connecting wire deformer to hire curve
 - rigging final joints with motion path following high curve
-- idea The football shape (hippydrome.com). I would say it is from 'Central Limit Theory'. => thickness, front, height
+- The football shape idea from (hippydrome.com). I would say it is very similar with 'Central Limit Theorem'. => thickness, front, height
 
 <img src="/assets/images/vanellope/CLT_BD2.gif" style="width:720px">
 
