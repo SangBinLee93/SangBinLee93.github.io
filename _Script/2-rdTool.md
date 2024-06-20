@@ -37,7 +37,7 @@ scripting **Ragdoll Dynamics** supporting tool.
   <img src="/assets/images/rdTools/r3_doking.gif" style="width:720px">  
   
   
-## **[ragdoll rigging tool]**  
+## **Ragdoll Dynamics rigging tool**  
 - Volume mesh making with bifrost  
   <img src="/assets/images/rdTools/r4_volumMesh.gif" style="width:720px">  
   Voxel size and polycount is editable  
@@ -55,7 +55,10 @@ scripting **Ragdoll Dynamics** supporting tool.
 - Build custom pin controller  
   <img src="/assets/images/rdTools/r8_pinController.gif" style="width:720px">  
   
-## **[ragdoll animation tool]**  
+- Build BBox Dummy (following Joint Orient)  
+  {% include video id="4LhN6nt7szI" provider="youtube" %}  
+
+## **Ragdoll Dynamics animation tool**  
 - [Ragdoll Command] Pick rMarker  
   <img src="/assets/images/rdTools/a1_pickMarker_1.gif" style="width:720px">  
   <img src="/assets/images/rdTools/a1_pickMarker_2.gif" style="width:720px">  
@@ -77,3 +80,7 @@ scripting **Ragdoll Dynamics** supporting tool.
 - [Ragdoll Command] Rec  
   <img src="/assets/images/rdTools/a6_rec.gif" style="width:720px">  
 
+## **Ragdoll Dynamics comparison**  
+  - Ground Collision  
+  - Finger physics variation  
+  {% include video id="YTIuaoeiT78" provider="youtube" %}  
