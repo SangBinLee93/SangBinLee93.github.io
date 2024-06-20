@@ -6,7 +6,7 @@ entries_layout: grid
 classes: wide
 author_profile: false
 ---
-- This page is still being edited(2024-05-30)
+- This page is still being edited(2024-06-20)
 
 {% assign custom_order = "Personal,Animation,VFX,Script,Commercial,ETC" | split: ',' %}
 {% assign ordered_collections = "" | split: '' %}
