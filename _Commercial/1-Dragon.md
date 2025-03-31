@@ -1,7 +1,10 @@
 ---
-title : "[2024] Unannounced"
+title : "[2024] Samsung Oddysey"
 header:
-  teaser: /assets/images/portfolio/UNANNOUNCED.png
+  teaser: /assets/images/oddysey/thumbnail0.png
+  video:
+    id: 6pvwIFEI6OE
+    provider: youtube
 tages:
   - houdini
   - maya
