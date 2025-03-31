@@ -1,5 +1,5 @@
 ---
-title : "[2024] Vanellope Facial Rig"
+title : "[2024] Wind Visualize"
 header:
   teaser: /assets/images/windVis/windVisthumbnail.png
 tages:
